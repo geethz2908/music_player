@@ -1,4 +1,8 @@
 MUSIC PLAYLIST MANAGER
+
+
+
+
 Overview
 The Music Playlist Manager is a command-line application that allows users to manage a playlist of songs. Users can create a playlist, add songs, navigate through the playlist, and display song details. The application supports various operations such as shuffling the playlist, showing songs in reverse order, and swapping songs.
 
