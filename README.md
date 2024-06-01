@@ -10,11 +10,19 @@ The Music Playlist Manager is a command-line application that allows users to ma
 Features
 
 ->Create Song Pool: Populate a pool of songs from a CSV file.
+
 ->Create Playlist: Create a new playlist from the song pool.
+
 ->Add to Playlist: Add songs from the pool to the playlist.
+
 ->Play Next/Previous Song: Navigate through the playlist.
+
 ->Show Song Details: Display detailed information about the currently playing song.
+
 ->Shuffle Playlist: Randomly shuffle the songs in the playlist.
+
 ->Reverse Playlist: Display the playlist in reverse order.
+
 ->Swap Songs: Swap positions of two songs in the playlist.
+
 ->Page-wise Song Display: Display songs in the pool in a paginated manner.
